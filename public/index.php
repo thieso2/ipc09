@@ -1,4 +1,4 @@
 <?php
-echo "Hallo, IPC!"
+echo "Hallo, IPC!";
 echo date();
 ?>
