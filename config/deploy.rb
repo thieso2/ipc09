@@ -13,6 +13,6 @@ role :web, "server1", "server2"
 
 namespace :deploy do
   task :restart do
-  #empty
+    #
   end
 end
